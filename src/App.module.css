@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  display: row;
+}
